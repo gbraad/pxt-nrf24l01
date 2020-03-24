@@ -1,0 +1,22 @@
+{
+    "name": "nrf24l01",
+    "version": "0.1.0",
+    "description": "Communication extension for the nRF24L01 module",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit",
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
